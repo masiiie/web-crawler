@@ -1,3 +1,4 @@
 # Crawler
 
-Implementación en Python de un Web Crawler que a partir de un cojunto de url semillas recupera las 10 000 páginas más similares.
+
+Python implementation of a web crawler that, from a set of seed urls, retrieves the most similar 10 000 pages.
